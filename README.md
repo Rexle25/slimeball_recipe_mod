@@ -1,4 +1,4 @@
-# Rexle's Craftable Slimeball
+# Rexle's slimeball recipe
 
 This mod adds a simple crafting recipe for slimeballs.
 
